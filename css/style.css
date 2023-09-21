@@ -377,7 +377,7 @@ main .about-container section .right .resume-btn:hover {
 
 main .skills-container {
     width: 100%;
-    height: 70vh;
+    height: 120vh;
     background-color: #59cdff;
     padding: 1.5rem 6rem 0;
 }
